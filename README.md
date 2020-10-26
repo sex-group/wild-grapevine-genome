@@ -1,7 +1,10 @@
 # Portuguese wild grapevine genome re-sequencing (*Vitis vinifera sylvestris*)
 
+[![Peer review: 10.1038/s41598-020-76012-6](
+  https://img.shields.io/badge/Peer_review-10.1038/s41598--020--76012--6-green "Peer review: 10.1038/s41598-020-76012-6")](https://doi.org/10.1101/2020.02.19.955781)
 [![Preprint: 10.1101/2020.02.19.955781](
-  https://img.shields.io/badge/Preprint-10.1101/2020.02.19.955781-green "Ppreprint: 10.1101/2020.02.19.955781")](https://doi.org/10.1101/2020.02.19.955781) ![MIT license](
+  https://img.shields.io/badge/Preprint-10.1101/2020.02.19.955781-green "Preprint: 10.1101/2020.02.19.955781")](https://doi.org/10.1101/2020.02.19.955781)
+![MIT license](
     https://img.shields.io/badge/License-MIT-green "MIT License")
 
 ![R 3.4.3](https://img.shields.io/badge/R-3.4.3-blue "R 3.4.3")
